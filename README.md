@@ -1,2 +1,3 @@
 # stokTakip
-Telekomünikasyon ürünlerinin stok takibinin yapılabildiği çoklu dil destekli Windows Forms uygulaması. İçerdiği teknolojiler : ADO.net, JSON
+Telekomünikasyon ürünlerinin stok takibinin yapılabildiği çoklu dil destekli Windows Forms uygulaması.
+İçerdiği teknolojiler : ADO.NET, JSON, C#, TSQL
